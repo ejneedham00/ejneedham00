@@ -2,7 +2,8 @@
 
 <h2>🔧 PowerShell Scripts:</h2>
 
-  - [Finding Apps With a Specific API Permission](https://github.com/ejneedham00/App-API-Permission-PowerShell-Script/tree/main)
+  - [Finding Application Registrations With a Specific API Permission](https://github.com/ejneedham00/App-API-Permission-PowerShell-Script/tree/main)
+  - [Finding the SAML Certificate Notification Email for Enterprise Applications](https://github.com/ejneedham00/SAML-Certificate-Notification-Email-PowerShell-Script)
 
 
 <h2>👨‍💻 Homelab Projects:</h2>
