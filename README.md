@@ -2,8 +2,7 @@
 
 <h2>🔧 PowerShell Scripts:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Finding Apps With a Specific API Permission](https://github.com/ejneedham00/App-API-Permission-PowerShell-Script/tree/main)
 
 
 <h2>👨‍💻 Homelab Projects:</h2>
