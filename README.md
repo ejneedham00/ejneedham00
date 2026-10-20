@@ -4,12 +4,16 @@
 
   - [Finding Application Registrations With a Specific API Permission](https://github.com/ejneedham00/App-API-Permission-PowerShell-Script/tree/main)
   - [Finding the SAML Certificate Notification Email for Enterprise Applications](https://github.com/ejneedham00/SAML-Certificate-Notification-Email-PowerShell-Script)
+  - [Finding the SAML Certificates that are expired / expiring in 90 days for Enterprise Applications](https://github.com/ejneedham00/SAML-Certificate-Expiry-PowerShell-Script/tree/main)
+  - [Finding the SCIM Failure Notification Email for Enterprise App](https://github.com/ejneedham00/SCIM-Failure-Notifications-PowerShell-Script/tree/main)
+  - [Bulk OneDrive Site Collection Owner Removal](https://github.com/ejneedham00/OneDrive-Site-Collection-Owner-Removal-PowerShell-Script)
+  - [Bulk OneDrive Quota Reset](https://github.com/ejneedham00/OneDrive-Quota-Reset-PowerShell-Script/tree/main)
+  - [Bulk SharePoint Site Deletion](https://github.com/ejneedham00/Bulk-SharePoint-Site-Deletion-PowerShell-Script)
 
 
 <h2>👨‍💻 Homelab Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Uptime Kuma Service Monitor](https://github.com/ejneedham00/Uptime-Kuma-Service-Monitor)
 
 
 <h2>📖 Currently Learning:</h2>
