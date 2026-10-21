@@ -9,7 +9,7 @@
   - [Bulk OneDrive Site Collection Owner Removal](https://github.com/ejneedham00/OneDrive-Site-Collection-Owner-Removal-PowerShell-Script)
   - [Bulk OneDrive Quota Reset](https://github.com/ejneedham00/OneDrive-Quota-Reset-PowerShell-Script/tree/main)
   - [Bulk SharePoint Site Deletion](https://github.com/ejneedham00/Bulk-SharePoint-Site-Deletion-PowerShell-Script)
-
+<p>[All scripts are my own and have been created outside of work for use in my personal Microsoft Azure tenant]</p>
 
 <h2>👨‍💻 Homelab Projects:</h2>
 
