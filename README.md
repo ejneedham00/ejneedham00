@@ -7,6 +7,17 @@
 
 <hr/>
 
+<h2>🔷 Azure / Entra Solutions:</h2>
+
+- [Entra Authentication Methods](https://github.com/ejneedham00/Entra-Authentication-Methods/tree/main)
+<p>[These solutions are my own, they have been designed / built outside of work in my personal Microsoft Azure tenant, and are intended as practical guides for other administrators. They are not based on, and do not describe, any employers environment or configuration.]</p>
+
+
+<h2>👨‍💻 Homelab Projects:</h2>
+
+ - [HomeLab Handbook](https://github.com/ejneedham00/HomeLab-Handbook)
+
+
 <h2>🔧 PowerShell Scripts:</h2>
 
   - [Finding Application Registrations With a Specific API Permission](https://github.com/ejneedham00/App-API-Permission-PowerShell-Script/tree/main)
@@ -18,15 +29,6 @@
   - [Bulk SharePoint Site Deletion](https://github.com/ejneedham00/Bulk-SharePoint-Site-Deletion-PowerShell-Script)
 <p>[All scripts are my own and have been created outside of work for use in my personal Microsoft Azure tenant. No employer code, data or configuration is included.]</p>
 
-<h2>👨‍💻 Homelab Projects:</h2>
-
- - [Uptime Kuma Service Monitor](https://github.com/ejneedham00/Uptime-Kuma-Service-Monitor)
-
-
-<h2>🔷 Azure / Entra Solutions:</h2>
-
-- [Entra Authentication Methods](https://github.com/ejneedham00/Entra-Authentication-Methods/tree/main)
-<p>[These solutions are my own, they have been designed / built outside of work in my personal Microsoft Azure tenant, and are intended as practical guides for other administrators. They are not based on, and do not describe, any employers environment or configuration.]</p>
 
 <h2>📖 Currently Learning:</h2>
 
