@@ -1,4 +1,6 @@
-<h1>Hi, I'm Ethan! <br/><a href="https://www.linkedin.com/in/ethan-needham-mbcs/">Cybersecurity / Identity & Access Management Professional</a> and <a href="https://github.com/ejneedham00">"Home Labber"</a> </h1>
+<h1>Hi, I'm Ethan! <br/></h1>
+
+<H1><a href="https://www.linkedin.com/in/ethan-needham-mbcs/">Cybersecurity / Identity & Access Management Professional</a> and <a href="https://github.com/ejneedham00">"Home Labber"</a> </h1>
 
 <h2>🔧 PowerShell Scripts:</h2>
 
