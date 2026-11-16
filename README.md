@@ -10,6 +10,9 @@
 <h2>🔷 Azure / Entra Solutions:</h2>
 
 - [Entra Authentication Methods](https://github.com/ejneedham00/Entra-Authentication-Methods/tree/main)
+- [Entra Application Management (Coming Soon)](https://github.com/ejneedham00/Entra-Application-Management)
+- [Entra Conditional Access (Coming Soon)](https://github.com/ejneedham00/Entra-Conditional-Access)
+- [Entra Privileged Identity Management (Coming Soon)](https://github.com/ejneedham00/Entra-Privileged-Identity-Management)
 <p>[These solutions are my own, they have been designed / built outside of work in my personal Microsoft Azure tenant, and are intended as practical guides for other administrators. They are not based on, and do not describe, any employers environment or configuration.]</p>
 
 
